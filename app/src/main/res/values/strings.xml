@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">BinProject</string>
+    <string name="app_name">TemporaryApp</string>
+    <string name="input_bin_text">Input your BIN:</string>
+    <string name="bank_url">Bank URL</string>
+    <string name="bank_number">+79554637584</string>
+    <string name="bank_coordinates">Coordinates</string>
+    <string name="input_text">Input</string>
 </resources>
