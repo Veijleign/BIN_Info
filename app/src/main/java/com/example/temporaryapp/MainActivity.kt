@@ -4,8 +4,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
+import com.example.binproject.R
 import com.example.temporaryapp.ui.main.MainFragment
-import com.example.temporaryapp.ui.main.MainViewModel
 
 class MainActivity : AppCompatActivity() {
 
